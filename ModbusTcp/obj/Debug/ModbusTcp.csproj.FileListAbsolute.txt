@@ -1,0 +1,13 @@
+D:\temps\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.exe
+D:\temps\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.pdb
+D:\temps\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.Form1.resources
+D:\temps\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.Properties.Resources.resources
+D:\temps\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.csproj.GenerateResource.cache
+D:\temps\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.csproj.CoreCompileInputs.cache
+D:\temps\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.exe
+D:\temps\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.pdb
+D:\temps\ModbusTcp\ModbusTcp\bin\Debug\ModbusTcp.exe.config
+D:\temps\ModbusTcp\ModbusTcp\bin\Debug\NModbus.dll
+D:\temps\ModbusTcp\ModbusTcp\bin\Debug\NModbus.xml
+D:\temps\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.csproj.CopyComplete
+D:\temps\ModbusTcp\ModbusTcp\obj\Debug\ModbusTcp.csprojAssemblyReference.cache

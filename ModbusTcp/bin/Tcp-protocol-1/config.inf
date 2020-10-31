@@ -1,0 +1,10 @@
+txtCmd	3
+txtIPAddr	192.168.5.233
+txtPortNum	502
+txtRegisterAddr	600
+txtRegisterCount	4
+txtSlaveAddress	1
+txtStartAddress	600
+txtNumberOfPoints	4
+txtAddressCode	1
+txtDataPosition	9
